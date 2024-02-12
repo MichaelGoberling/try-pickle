@@ -1,0 +1,20 @@
+// 
+// 1. Create a JSON object with the following key-value pairs: 
+// 
+// {
+//   "name": "Common wood pigeon",
+//   "lifespan": 8,
+//   "friends": {
+//     "bird1": "Parrot",
+//     "bird2": "Albatross",
+//     "bird3": "Falcon"
+//   }
+// }
+
+name = "Common wood pigeon"
+lifespan = 8
+friends {
+    ["bird1"] = "Parrot"
+    ["bird2"] = "Albatross"
+    ["bird3"] = "Falcon"
+}

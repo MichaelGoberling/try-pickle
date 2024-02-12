@@ -1,0 +1,13 @@
+// 
+// 2. For some reason, we decide we no longer need the birdX names of the different birds;
+//    we just need them as an array. Change your solution to the 
+//    previous question to produce the following JSON result:
+//
+
+name = "Common wood pigeon"
+lifespan = 8
+birds {
+    "Parrot"
+    "Albatross"
+    "Falcon"
+}
