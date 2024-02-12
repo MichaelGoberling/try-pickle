@@ -1,0 +1,3 @@
+name = "hello-world"
+description = "A simple hello world example"
+version = "0.0.1"
