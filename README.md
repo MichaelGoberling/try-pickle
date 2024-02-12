@@ -12,3 +12,4 @@ Note: I also copied to `/usr/local/bin` for ease of use
 ### Tests
 
 - [hello-world](./hello-world/README.md)
+- [exercise-1](./exercise-1/README.md)
